@@ -29,7 +29,7 @@ I used the following packages:
 `patchwork`
 
 ## Dataset
-The raw data was collected by me with the ImageJ software (https://imagej.nih.gov/ij/).
+The raw data was collected by me using the ImageJ software (https://imagej.nih.gov/ij/) and made part of my Scientific Initiation Project under the supervision of Raul Costa Pereira.
 <br>
 `data-ppsr.csv` -> contains the measures of predator and prey sizes in pixels
 <br>
@@ -37,7 +37,7 @@ The raw data was collected by me with the ImageJ software (https://imagej.nih.go
 <br>
 `data-backpack.csv` -> contains the measures of the bug's backpack in pixels
 
-The URLs of each photo sellected by me can be found in `docs/links.csv`.
+The URLs of each photo sellected can be found in `docs/links.csv`.
 
 The Figure 1 in `docs/proj_report.pdf` will not be made available in this repository because it's an original photo from Melvyn Yeo. He authorized the use for education purpose. If you want, check https://flic.kr/ps/2iz6em (very beautiful photos). I thank Melvyn for the permission.
 
